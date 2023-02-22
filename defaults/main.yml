@@ -1,0 +1,1 @@
+systemd_journal_remote_client_letsencrypt_certificate_name: "{{ inventory_hostname }}.{{ internal_private_domain }}"
